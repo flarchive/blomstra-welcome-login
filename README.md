@@ -2,13 +2,13 @@
 
 > **Read-only archive of released versions of blomstra/welcome-login.** Not for installation: use [Packagist](https://packagist.org/packages/blomstra/welcome-login) or the [upstream repository](https://github.com/blomstra/flarum-ext-welcome-login).
 
-**0** versions archived · Latest: [`0.1.0`](https://github.com/flarchive/blomstra-welcome-login/tree/archive/v0.1.0) · License: `MIT` · Flarum: `^1.2.0`
+**1** versions archived · Latest: [`0.1.0`](https://github.com/flarchive/blomstra-welcome-login/tree/archive/v0.1.0) · License: `MIT` · Flarum: `^1.2.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `0.1.0` | 2022-03-02 | `^1.2.0` | [Browse](https://github.com/flarchive/blomstra-welcome-login/tree/archive/v0.1.0) |
 
 Catalog entry: [packages/blomstra-welcome-login.json](https://github.com/flarchive/archive-index/blob/main/packages/blomstra-welcome-login.json)
 
